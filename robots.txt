@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mansetro.github.io/sitemap.html.gz
+Sitemap: https://mansetro.github.io/app/sitemap.html.gz
+Sitemap: https://mansetro.github.io/assets/sitemap.html.gz
+Sitemap: https://mansetro.github.io/css/sitemap.html.gz
+Sitemap: https://mansetro.github.io/includes/sitemap.html.gz
+Sitemap: https://mansetro.github.io/item/sitemap.html.gz
+Sitemap: https://mansetro.github.io/src/sitemap.html.gz
